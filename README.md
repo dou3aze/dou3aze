@@ -1,5 +1,9 @@
 # 💫 About Me:
-im a third year computer science student. i am discovering data analysis. i like front end dev. i love project management and narrative design for video games and such. 
+🎏third year computer science student!
+🎏discovering data analysis
+🎏front-end developper
+🎏interested in project management 
+🎏narrative design in my free time
 
 
 ## 🌐 Socials:
