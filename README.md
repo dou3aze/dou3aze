@@ -1,9 +1,9 @@
 # 💫 About Me:
-🎏third year computer science student!
-🎏discovering data analysis
-🎏front-end developper
-🎏interested in project management 
-🎏narrative design in my free time
+🎏third year computer science student! </br>
+🎏discovering data analysis</br>
+🎏front-end developper</br>
+🎏interested in project management </br>
+🎏narrative design in my free time</br>
 
 
 ## 🌐 Socials:
